@@ -55,7 +55,7 @@ Bat-Ball-Stump-Game/
 
 Clone the repository
 
-git clone https://github.com/<your-username>/Bat-Ball-Stump-Game.git
+git clone https://github.com/<https://github.com/Sangram10817>/Bat-Ball-Stump-Game.git
 
 
 Navigate to the project folder
