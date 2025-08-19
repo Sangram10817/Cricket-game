@@ -50,3 +50,20 @@ Bat-Ball-Stump-Game/
 ├── cricket.js       # JavaScript logic
 ├── index.html       # Main HTML file
 └── README.md        # Project documentation
+
+🚀 How to Run the Project
+
+Clone the repository
+
+git clone https://github.com/<your-username>/Bat-Ball-Stump-Game.git
+
+
+Navigate to the project folder
+
+cd Bat-Ball-Stump-Game
+
+
+Open index.html in your browser
+
+start index.html     # For Windows
+open index.html      # For Mac
